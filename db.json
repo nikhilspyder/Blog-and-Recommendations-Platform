@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "id": "71b3",
+      "selectedPersona": "Student",
+      "userName": "ng@hawk.iit.edu",
+      "status": "active",
+      "password": "aaa"
+    },
+    {
+      "id": "71a3",
+      "selectedPersona": "Student",
+      "userName": "john@yahoo.com",
+      "status": "inactive",
+      "password": "aaa"
+    },
+    {
+      "id": "8b8d",
+      "selectedPersona": "Administrator",
+      "userName": "Rajjo",
+      "status": "active",
+      "password": "rajjo"
+    },
+    {
+      "selectedPersona": "Moderator",
+      "userName": "moderator",
+      "password": "m",
+      "status": "active",
+      "id": "VMiADsy"
+    },
+    {
+      "selectedPersona": "Student",
+      "userName": "DS",
+      "password": "a",
+      "status": "active",
+      "id": "5yPKzyA"
+    },
+    {
+      "selectedPersona": "Administrator",
+      "userName": "Admin",
+      "password": "admin",
+      "status": "active",
+      "id": "nWIzI1v"
+    },
+    {
+      "selectedPersona": "Student",
+      "userName": "johnsmith",
+      "password": "a",
+      "status": "active",
+      "id": "ehzBwRa"
+    },
+    {
+      "selectedPersona": "Student",
+      "userName": "Divyansh",
+      "password": "a",
+      "status": "active",
+      "id": "2hSfzmD"
+    },
+    {
+      "selectedPersona": "Student",
+      "userName": "aakansha",
+      "password": "a",
+      "status": "active",
+      "id": "7O9pDzd"
+    },
+    {
+      "selectedPersona": "Student",
+      "userName": "Priya",
+      "password": "a",
+      "status": "active",
+      "id": "uxgVAPT"
+    },
+    {
+      "selectedPersona": "Student",
+      "userName": "Henil",
+      "password": "a",
+      "status": "active",
+      "id": "ykzGknA"
+    },
+    {
+      "selectedPersona": "Student",
+      "userName": "Akash",
+      "password": "a",
+      "status": "active",
+      "id": "kVEkHkW"
+    },
+    {
+      "selectedPersona": "Student",
+      "userName": "Niks",
+      "password": "a",
+      "status": "active",
+      "id": "-31ersR"
+    },
+    {
+      "selectedPersona": "Student",
+      "userName": "Nikhil",
+      "password": "a",
+      "status": "active",
+      "id": "jV8BZOE"
+    },
+    {
+      "id": "d135",
+      "selectedPersona": "Student",
+      "userName": "Varsha",
+      "password": "a",
+      "status": "active"
+    },
+    {
+      "id": "7412",
+      "selectedPersona": "Student",
+      "userName": "Rajnika",
+      "password": "Rajnika",
+      "status": "active"
+    }
+  ],
+  "posts": [
+    {
+      "id": "e14f771c-9871-49bb-848f-d4aa10895a89",
+      "title": "Virat Kohli - GOAT",
+      "description": "Virat Kohli is an Indian international cricketer and the former captain of the Indian national cricket team. He is a right-handed batsman and an occasional medium-fast bowler. He currently represents Royal Challengers Bangalore in the IPL and Delhi in domestic cricket.",
+      "image": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2022/09/08/13ede2d06f1236527b9159c5f0f6d3b6.jpg?fit=945%2C945&quality=80&zoom=1&ssl=1?v=1662654668",
+      "imageText": "Alternate image text",
+      "date": "03/10/2024, 04:56:50 PM",
+      "reply": [
+        {
+          "id": "77c6e667-fca6-47b1-8780-27322685dcb7",
+          "author": "ng@hawk.iit.edu",
+          "date": "03/10/2024, 05:43:17 PM",
+          "replyContent": "Awesome Performance !!!"
+        },
+        {
+          "id": "72f06a9d-4064-448d-aa38-0d9baae95ab6",
+          "author": "ng@hawk.iit.edu",
+          "date": "03/10/2024, 06:15:59 PM",
+          "replyContent": "jjj"
+        },
+        {
+          "id": "a4703f83-a1c3-48c5-8a18-63df5f6d66c5",
+          "author": "Rajjo",
+          "date": "03/10/2024, 07:12:37 PM",
+          "replyContent": "Won the game, hurray :)"
+        },
+        {
+          "id": "4784b430-40c3-45eb-92b3-c02f4177c15e",
+          "author": "Akash",
+          "date": "03/10/2024, 08:14:46 PM",
+          "replyContent": "yay"
+        },
+        {
+          "id": "dd910ed7-6a1e-4a1a-971e-2920a1355e5d",
+          "author": "Niiks",
+          "date": "03/10/2024, 10:42:11 PM",
+          "replyContent": "Comment Successful"
+        },
+        {
+          "id": "8ee795a3-746f-4bdb-8691-b26cec85264e",
+          "author": "johnsmith",
+          "date": "03/10/2024, 10:55:51 PM",
+          "replyContent": "Awesome Performance by virat kohli"
+        }
+      ]
+    }
+  ]
+}
