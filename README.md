@@ -56,7 +56,7 @@ This project is a full-stack web application designed to deliver a personalized 
 ## Installation
 ### Prerequisites:
 - **Node.js**: Install from [Node.js](https://nodejs.org).
-- **Java**: Ensure JDK 11+ is installed for Spring Boot.
+- **Java**: Ensure JDK 17+ is installed for Spring Boot.
 - **Elasticsearch**: Set up Elasticsearch on your local machine or server.
 
 
